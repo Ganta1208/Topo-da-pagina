@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'ubuntu', sans-serif;
+}
+
+a:hover{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+
+a:visited{
+	color: #fff;
+	background-color: black;
+}
+
+a:active{
+	color: white;
+	background-color: green;
+	border-radius: 10px;
+}
+
+li{
+	list-style: none;
+}
